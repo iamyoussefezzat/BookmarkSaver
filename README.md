@@ -53,6 +53,7 @@ cd BookmarkSaver
 # 3. Open in your browser
 open index.html   # or double-click it manually
 
+```
 ----
 
 💡 Usage
