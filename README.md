@@ -69,14 +69,14 @@ Delete bookmarks you no longer want.
 All bookmarks are stored in your browser, so they stay even after refresh!
 
 ----
-
+```
 BookmarkSaver/
 │
 ├── index.html       # Main HTML page
 ├── style.css        # Styling file
 ├── script.js        # Main JS logic
 └── assets/          # Optional folder for images or icons
-
+```
   🧑‍💻 Author
 
 [Youssef M. Ezzat] (https://github.com/iamyoussefezzat)
